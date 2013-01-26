@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethodcommon;
+package internal.com.android.inputmethodcommon;
 
 import android.content.Context;
 import android.content.Intent;
